@@ -1,2 +1,2 @@
 # Employee_Wage_Computation_Problem
-Day9_Employee_Wage_Computation_Problem
+Employee_Wage_Computation_Problem
